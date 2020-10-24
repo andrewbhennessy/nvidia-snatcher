@@ -1,1 +1,1 @@
-worker: npm start run
+release: npm start run
